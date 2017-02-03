@@ -8,4 +8,4 @@
 7、栈  
 8、二叉树(todo)  
 9、图  
-####不错的网站：http://zh.visualgo.net/  
+####不错的参考网站：http://zh.visualgo.net/
